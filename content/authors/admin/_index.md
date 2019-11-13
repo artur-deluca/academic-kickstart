@@ -43,7 +43,7 @@ publications:
 projects:
 - A python package for discrete optimization using particle swarms&#58; [PSOpt](https://github.com/artur-deluca/psopt)
 - A historical review of challenges along the course of deep learning&#58; [saturation](work/saturation)
-- My talks over UFSC's Artificial Intelligence club&#58; <br>
+- My talks over [UFSC's AI/ML club](https://geia-ufsc.github.io/)&#58; <br>
     -  [Dimensionality Reduction and Feature Selection](https://github.com/GEIA-UFSC/feature_selection) <br>
     - [Learning on imbalanced datasets](https://github.com/GEIA-UFSC/imbalanced-learning)
 - A quick examination and illustration of static malware analysis&#58; [the compiler provenance problem](https://github.com/artur-deluca/compiler_provenance)
@@ -81,8 +81,8 @@ user_groups:
 `arturbackdeluca [at] gmail [dot] com`
 
 <div style="text-align: justify">
-I am a graduate student in Artificial Intelligence and Robotics at the <a href="https://www.diag.uniroma1.it/en">University of Rome</a>. But I am currently pursuing research programs involving the problems of Statistical Learning and optimization within (but not restricted to) Deep Learning.
+I am a master's student in Artificial Intelligence and Robotics at the <a href="https://www.diag.uniroma1.it/en">University of Rome</a>. I am currently looking for research programs involving questions of statistical learning and optimization within (but not restricted to) Deep Learning.
 <br><br>
 
-Please feel free to reach me within any of the digital medium available here. I currently live in Rome but I'm originally from Brazil. My favorite activities are listening to unfamiliar genres of music and running, although usually not at the same time :smiley:.
+Please feel free to reach me via any of the digital mediums here available. I currently live in Rome, but I'm originally from Brazil. My favorite activities are listening to unfamiliar genres of music and running, although usually not at the same time :smiley:.
 </div>
